@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "単焦点",
+  "base_artist": "Penthouse",
+  "createdAt": "2026-02-10T06:58:11.575537Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "単焦点",
+      "artist": "Penthouse",
+      "has_synced": true,
+      "path": "select/01_単焦点_Penthouse.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "単焦点",
+      "artist": "Penthouse",
+      "has_synced": false,
+      "path": "select/pl_01_単焦点_Penthouse.txt"
+    }
+  ]
+}
